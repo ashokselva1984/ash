@@ -1,0 +1,5 @@
+https://blogs.technet.microsoft.com/canitpro/2017/05/24/step-by-step-migrating-active-directory-fsmo-roles-from-windows-server-2012-r2-to-2016/
+
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/upgrade-domain-controllers
+
+https://www.virtualizationhowto.com/2016/11/upgrade-windows-server-2012-r2-domain-controller-to-windows-server-2016/
